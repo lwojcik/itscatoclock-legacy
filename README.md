@@ -15,4 +15,8 @@ The script was written with Python 2.x in mind. Follow the steps below:
 3. Copy those details into the script and provide the number of pics in your collection. The script will generate a random number and determine the pic to be uploaded.
 4. Set up the script to be executed hourly via cron and you're good to go.
 
+# Project page
+
+https://bitbucket.org/lwojcik/itscatoclock-legacy
+
 Licensed under [MIT licence](https://bitbucket.org/lwojcik/itscatoclock-legacy/raw/HEAD/LICENSE).
