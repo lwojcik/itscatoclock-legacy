@@ -6,7 +6,7 @@ I shut down the project due to lack of funds to keep the server running. But I'm
 
 The script is really ugly but it works.
 
-# How to use this?
+# How do I use this?
 
 The script was written with Python 2.x in mind. Follow the steps below:
 
