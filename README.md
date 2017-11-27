@@ -19,4 +19,4 @@ The script was written with Python 2.x in mind. Follow the steps below:
 
 https://bitbucket.org/lwojcik/itscatoclock-legacy
 
-Licensed under [MIT licence](https://bitbucket.org/lwojcik/itscatoclock-legacy/raw/HEAD/LICENSE).
+Licensed under [MIT license](https://bitbucket.org/lwojcik/itscatoclock-legacy/raw/HEAD/LICENSE). See [LICENSE](https://bitbucket.org/lwojcik/itscatoclock-legacy/raw/HEAD/LICENSE) for more info.
