@@ -2,7 +2,7 @@
 
 Back in 2014 or 2015 I decided it would be a great idea to have a Twitter bot telling the time and posting a kitty pic every full hour. I assembled huge collection of cat pics and wrote an ugly Python script to be executed via cron.
 
-I shut down the project due to lack of funds to keep the server running. But I'm working on bringing it back online.
+I shut down the project due to lack of funds to keep the server running. ~~But I'm working on bringing it back online.~~ The bot is back online at [https://twitter.com/itscatoclock](https://twitter.com/itscatoclock) and it's powered by Node.js ([github.com/lwojcik/itscatoclock](github.com/lwojcik/itscatoclock)) 
 
 The script is really ugly but it works.
 
